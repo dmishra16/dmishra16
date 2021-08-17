@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmishra16
+- 👋 Hi, I’m Deepali Mishra.
 - 👀 I’m interested in enhancing new skills.
 - 🌱 I’m currently learning linux, ansible, python, jenkins, bash-scripting, docker.
 - 💞️ I’m looking to collaborate on new projects.
